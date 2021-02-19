@@ -6,7 +6,7 @@ In this project, I would like to study embedded development by exploiting the Ra
 
 Linux related:
 
-a.) porting a embedded linux to RPi4 - go thru' Linux From Scratch
+a.) porting a embedded linux to RPi4 - mainly refer to http://www.linuxfromscratch.org
 
 b.) implement a basic character driver on RPi4
 
