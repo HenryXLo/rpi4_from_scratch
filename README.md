@@ -6,7 +6,15 @@ In this project, I would like to study embedded development by exploiting the Ra
 
 Linux related:
 
-a.) porting a embedded linux to RPi4 - mainly refer to http://www.linuxfromscratch.org
+a.) porting a embedded linux to RPi4 - mainly refer to 
+    
+    i) QEMU RPi4 arm64 soc + buildroot built eLinux image
+    
+    ii) Real RPi4 SBC + buildroot built eLinux image
+    
+    iii) QEMU RPi4 arm64 soc + customized Linux image from http://www.linuxfromscratch.org
+    
+    iv) Real RPi4 SBC + customized Linux image from http://www.linuxfromscratch.org
 
 b.) implement a basic character driver on RPi4
 
