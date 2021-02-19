@@ -2,7 +2,7 @@
 
 Hi All, my nams is Henry Lo and I'm an embedded engineer and a enthusiast of embedded system development. Anything about arm, linux, kernel, drivers, OS, different RISC chipsets would be interesting me.
 
-On this project, I would like to study embedded development by exploiting the Raspberry Pi 4 model B SBC which is a very handy SBC. It equips with the ARMv8 Quad-core A72 64-bit SOC (BCM2711) which is very powerful and it's very convenient to study embedded programming. Basically, I would go thorough the process in different areas.
+In this project, I would like to study embedded development by exploiting the Raspberry Pi 4 model B SBC which is a very handy SBC. It equips with the ARMv8 Quad-core A72 64-bit SOC (BCM2711) which is very powerful and it's very convenient to study embedded programming. Basically, I would go thorough the process in different areas.
 
 Linux related:
 a.) porting a embedded linux to RPi4 - go thru' Linux From Scratch
